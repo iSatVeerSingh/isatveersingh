@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 314.11 361.38" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    #upper-ract {
+      display: none;
+    }
+
+    #info {
+      fill: red;
+    }
+
+    #info:hover + #upper-ract {
+      display: block;
+    }
+  </style>
+
+
+  <g transform="translate(-194.32 -234.36)">
+    <g id="info" transform="translate(-674.83 78.563)" fill="none" stroke="#fe428e">
+      <path d="m928.98 308.12 26.831-38.43h125.99v38.43z" stroke-width="2" />
+      <path d="m1080.9 466.04-26.832 38.43h-125.99v-38.43z" stroke-width="2" />
+      <path d="m928.06 466.04v-156.93" stroke-width="1.9937" />
+      <path d="m1081.8 465.04v-156.93" stroke-width="1.9937" />
+      <g stroke-width="5.5">
+        <path d="m1055.2 269.68v38.43" />
+        <path d="m1066.8 269.68v38.43" />
+        <path d="m1078.4 269.68v38.43" />
+      </g>
+    </g>
+    <g id="upper-ract">
+      <rect x="218.16" y="244.56" width="266.44" height="74.537" fill="#2b0000" stroke="#42fe6b"
+        stroke-width="5.1234" />
+      <text x="265.56564" y="278.30655" fill="#ff2a2a" stroke-width="5.5" xml:space="preserve">
+        <tspan x="265.56564" y="278.30655">This is hover element</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
