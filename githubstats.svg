@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 745 498" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(49.362 -201.19)">
+  <g transform="translate(-938.27 -376.32)">
+   <rect x="891.41" y="580.01" width="740" height="493" ry="1.4776" fill="#141321" stroke="#fe428e" stroke-width="5"/>
+   <g transform="translate(-18.692 525.17)" fill="none" stroke="#fe428e">
+    <path d="m928.98 308.12 26.831-38.43h125.99v38.43z" stroke-width="2"/>
+    <path d="m1080.9 466.04-26.832 38.43h-125.99v-38.43z" stroke-width="2"/>
+    <path d="m928.06 466.04v-156.93" stroke-width="1.9937"/>
+    <path d="m1081.8 465.04v-156.93" stroke-width="1.9937"/>
+    <g stroke-width="5.5">
+     <path d="m1055.2 269.68v38.43"/>
+     <path d="m1066.8 269.68v38.43"/>
+     <path d="m1078.4 269.68v38.43"/>
+    </g>
+   </g>
+   <g transform="translate(163.19 525.17)" fill="none" stroke="#19fef4">
+    <path d="m928.98 308.12 26.831-38.43h125.99v38.43z" stroke-width="2"/>
+    <path d="m1080.9 466.04-26.832 38.43h-125.99v-38.43z" stroke-width="2"/>
+    <path d="m928.06 466.04v-156.93" stroke-width="1.9937"/>
+    <path d="m1081.8 465.04v-156.93" stroke-width="1.9937"/>
+    <g stroke-width="5.5">
+     <path d="m1055.2 269.68v38.43"/>
+     <path d="m1066.8 269.68v38.43"/>
+     <path d="m1078.4 269.68v38.43"/>
+    </g>
+   </g>
+   <g transform="translate(345.08 525.17)" fill="none" stroke="#fe42f9">
+    <path d="m928.98 308.12 26.831-38.43h125.99v38.43z" stroke-width="2"/>
+    <path d="m1080.9 466.04-26.832 38.43h-125.99v-38.43z" stroke-width="2"/>
+    <path d="m928.06 466.04v-156.93" stroke-width="1.9937"/>
+    <path d="m1081.8 465.04v-156.93" stroke-width="1.9937"/>
+    <g stroke-width="5.5">
+     <path d="m1055.2 269.68v38.43"/>
+     <path d="m1066.8 269.68v38.43"/>
+     <path d="m1078.4 269.68v38.43"/>
+    </g>
+   </g>
+   <g transform="translate(526.96 525.17)" fill="none" stroke="#42fe6b">
+    <path d="m928.98 308.12 26.831-38.43h125.99v38.43z" stroke-width="2"/>
+    <path d="m1080.9 466.04-26.832 38.43h-125.99v-38.43z" stroke-width="2"/>
+    <path d="m928.06 466.04v-156.93" stroke-width="1.9937"/>
+    <path d="m1081.8 465.04v-156.93" stroke-width="1.9937"/>
+    <g stroke-width="5.5">
+     <path d="m1055.2 269.68v38.43"/>
+     <path d="m1066.8 269.68v38.43"/>
+     <path d="m1078.4 269.68v38.43"/>
+    </g>
+   </g>
+   <g transform="translate(-6.8359e-7 500.12)" fill="none" stroke="#fe428e">
+    <g stroke-width="4">
+     <path d="m891.41 94.894h57.892v59.245h55.337"/>
+     <path d="m949.3 120.92h116.13"/>
+     <path d="m924.37 94.894v95.981"/>
+    </g>
+    <g stroke-width="4.424">
+     <circle cx="924.37" cy="202.01" r="10.36"/>
+     <circle cx="1015" cy="154.14" r="10.36"/>
+     <circle cx="1076.1" cy="120.92" r="10.36"/>
+    </g>
+   </g>
+   <g transform="matrix(-1 0 0 1 2522.8 500.12)" fill="none" stroke="#fe428e">
+    <g stroke-width="4">
+     <path d="m891.41 94.894h57.892v59.245h55.337"/>
+     <path d="m949.3 120.92h116.13"/>
+     <path d="m924.37 94.894v95.981"/>
+    </g>
+    <g stroke-width="4.424">
+     <circle cx="924.37" cy="202.01" r="10.36"/>
+     <circle cx="1015" cy="154.14" r="10.36"/>
+     <circle cx="1076.1" cy="120.92" r="10.36"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
