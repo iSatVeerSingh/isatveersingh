@@ -42,8 +42,6 @@ Well organised person, problem solver, independent employee with high attention 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 &nbsp;
 
-### Programming Languages in which I code :-
-
 ![Programming Languages](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/programming-languages.svg)
 
 ## Text Editors I use :-
