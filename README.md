@@ -16,31 +16,7 @@ I design and develop experiences that make people's lives simple
 Well organised person, problem solver, independent employee with high attention to detail. Fan of Game Of Thrones Series, BBC's Sherlock Series, The Witcher, The Boys and Cricket. Curious by nature and Business mind.
 
 ## My skills are:-
-
-### Frameworks and Libraries :-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-&nbsp;
-![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-&nbsp;
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-&nbsp;
-![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-&nbsp;
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-&nbsp;
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-&nbsp;
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-&nbsp;
+![Libraries and Frameworks](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/libraries.svg)
 
 ![Programming Languages](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/programminglanguages.svg)
 
