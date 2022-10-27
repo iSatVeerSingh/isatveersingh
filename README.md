@@ -16,9 +16,10 @@ I design and develop experiences that make people's lives simple
 Well organised person, problem solver, independent employee with high attention to detail. Fan of Game Of Thrones Series, BBC's Sherlock Series, The Witcher, The Boys and Cricket. Curious by nature and Business mind.
 
 ## My skills are:-
-![Libraries and Frameworks](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/libraries.svg)
 
 ![Programming Languages](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/programminglanguages.svg)
+
+![Libraries and Frameworks](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/libraries.svg)
 
 ## Text Editors I use :-
 
