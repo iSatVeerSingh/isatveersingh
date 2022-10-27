@@ -1,3 +1,5 @@
+![Satveer Singh](https://raw.githubusercontent.com/iSatVeerSingh/isatveersingh/main/banner.svg)
+
 # Hi there, I'm SatVeer Singh 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isatveersingh/)
