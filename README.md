@@ -7,7 +7,7 @@
 
 Welcome to my Github Account.
 
-I'm a passionate selt-taught full stack web developer and open-source enthusiast from Rajasthan, India.
+I'm a passionate self-taught full stack web developer and open-source enthusiast from Rajasthan, India.
 
 I design and develop experiences that make people's lives simple
 
